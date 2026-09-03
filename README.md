@@ -34,3 +34,9 @@ Hands-on lab work to build *real-world* web application security skills.
 I'm a frontend developer with 15+ years of experience in JavaScript, TypeScript, React, Vue.js, and Ruby on Rails, currently transitioning into Application Security. I bring hands-on lab experience as well as a Purdue University Professional Certificate in Cybersecurity. I'm also working toward CompTIA Security+ (SY0-701).
 
 Portfolio: [Website](https://jeffgarris.com) · [ LinkedIn](https://www.linkedin.com/in/jeff-garris) · [GitHub](https://github.com/jeffgarris)
+
+---
+
+### Scope and ethics
+
+All testing documented here was performed exclusively against PortSwigger's own sandboxed lab environments, provisioned per-user and intended for this exact purpose. Nothing here targets third-party systems.
