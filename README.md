@@ -11,7 +11,7 @@ Hands-on lab work to build *real-world* web application security skills.
   
 - [x] Path traversal
 - [x] Access control
-- [ ] Authentication
+- [x] Authentication
 - [ ] Server-side request forgery (SSRF)
 - [ ] File upload vulnerabilities
 - [ ] OS command injection
@@ -33,7 +33,7 @@ Hands-on lab work to build *real-world* web application security skills.
 ## About Me
 I'm a frontend developer with 15+ years of experience in JavaScript, TypeScript, React, Vue.js, and Ruby on Rails, currently transitioning into Application Security. I bring hands-on lab experience as well as a Purdue University Professional Certificate in Cybersecurity. I'm also working toward CompTIA Security+ (SY0-701).
 
-Portfolio: [Website](https://jeffgarris.com) · [ LinkedIn](https://www.linkedin.com/in/jeff-garris) · [GitHub](https://github.com/jeffgarris)
+Portfolio: [LinkedIn](https://www.linkedin.com/in/jeff-garris) · [GitHub](https://github.com/jeffgarris) · [Website](https://jeffgarris.com)
 
 ---
 
